@@ -1,3 +1,5 @@
+<meta name="google-site-verification" content="JMZJuUBquzbjv02uWCvXLICJAiMmQ5oRzvADSZD9paw" />
+
 # AvbgCloud
 
 AvbgCloud is a personal automation application enabling Gmail and Google Drive workflows using platforms such as n8n and Make.com.
