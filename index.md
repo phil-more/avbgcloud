@@ -1,4 +1,4 @@
-<meta name="google-site-verification" content="JMZJuUBquzbjv02uWCvXLICJAiMmQ5oRzvADSZD9paw" />
+<meta name="google-site-verification" content="1khHVN9YdtClqIROVvSfk0vRqIB0Pzh0UeuuFGwmokc" />
 
 # AvbgCloud
 
